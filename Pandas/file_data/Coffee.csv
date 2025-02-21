@@ -1,0 +1,15 @@
+Day,Coffee Type,Unit Sold,Price,Revenue
+Monday,Espresso,15,5,75
+Monday,Latte,20,8,160
+Tuesday,Espresso,25,5,125
+Tuesday,Latte,30,8,240
+Wednesday,Espresso,35,5,175
+Wednesday,Latte,10,8,80
+Thursday,Espresso,10,5,50
+Thursday,Latte,50,8,400
+Friday,Espresso,20,5,100
+Friday,Latte,25,8,200
+Saturday,Espresso,30,5,150
+Saturday,Latte,35,8,280
+Sunday,Espresso,35,5,175
+Sunday,Latte,80,8,640
