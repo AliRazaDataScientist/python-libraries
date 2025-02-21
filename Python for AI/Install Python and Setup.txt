@@ -1,0 +1,17 @@
+Install python on google and then install it.
+
+Install VS code on google and install it.
+
+In VS code install Python and code runner extension.
+
+Then open cmd and then write pip and then 
+
+write pip install pandas
+after that and write python and then write import pandas means import pandas library in the python
+
+exit() use this command for out the pip
+
+and then again write pip install sciket-learn
+after that and write python and then write import sklearn means import sklearn library in the python
+
+exit() use this command for out the pip

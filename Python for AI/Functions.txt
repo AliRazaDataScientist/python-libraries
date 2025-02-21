@@ -1,0 +1,23 @@
+Functions => A function is a block of code which only runs when it is called.
+
+There are two type of functions
+
+User-defined Functions => we will declare it with the keyword of def and then function name
+
+Built-in Functions => Interpreter defined function that we only use like len(), int(), input() etc.
+
+we can use variable as an arguments in functions.We can call it as pass parameters via function call 
+
+There are 4 types of functions:
+Default Arguments
+Keyword Arguments
+Variable Arguments
+Required Arguments
+
+Default Arguments => We can provide value while creating function. If function is call and arguments is empty then automatically these arguments are used by default.
+
+Keyword Arguments => We can call the function with keywords without the any order sequence.
+
+Required Arguments => If we didn't give the value as default arguments then it will become required arguments and without arguments calling function is throwing error so that why it is required.
+
+Variable Arguments => We will use ** in the variable arguments and how much arguments is there don't care and we will get it on runtime.

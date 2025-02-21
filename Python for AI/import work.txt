@@ -1,0 +1,16 @@
+Import => In python the process of loading code from a python module into the current script.
+
+import math
+
+from keyword => You can also import specific functions or variable from a module using the from keyword.
+
+from math import sqrt
+
+
+import everything => To import all functions and variables from a modules using the * wildcard. However, this is genarally not recommended as it can lead to confusion 
+
+from math import *
+
+as keyword => same as we can use it alise 
+
+dir function => it will show all the functions from the import 

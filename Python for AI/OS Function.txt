@@ -1,0 +1,17 @@
+mkdir => It is used to create folder in the given path
+Ex: os.mkdir('path')
+
+path.exists => It checked the path on the given addess
+Ex: os.path.exists('path')
+
+rename => It is used to rename the folders on the given path
+os.rename('path and old name','path and new name')
+
+listdir => It is used to count the folders in the given path
+Ex: os.listdir('path')
+
+getcwd = > It is for getting the directory path
+Ex: os.getcwd()
+
+chdir => It will change the directory according to you given path
+Ex: os.chdir('path')

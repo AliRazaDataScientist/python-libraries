@@ -1,0 +1,18 @@
+Dictionaries => Dictionaries are ordered collection date items. They store multiple items in a single variable.It act like key-value pairs thats are seperated by commas.
+
+In short is acts like Map.
+
+Keys => we get keys of dictionary by using keys() function
+
+Values => we get values of dictionary by using values() function
+
+Items => we can get both keys and values by using items() function 
+
+
+Dictionaries Methods
+
+update  	///update the dictionary
+clear		///remove the dictionary
+pop		///remove the keyparis
+popitem		///auto remove last keypair
+del		///delete complete dictionary

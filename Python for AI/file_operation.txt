@@ -1,0 +1,9 @@
+Read => only read file data using this function and we are also using r as a reading and by default r is using
+
+write => its used for writing purpose just like overwrite and we should to pass parameter w 
+
+append => it used for append text into the file and we are also using a as a parameter
+
+close => used to close the file after read, write and append
+
+with => used to read,write and append purpose but we should not used close file after the with keyword

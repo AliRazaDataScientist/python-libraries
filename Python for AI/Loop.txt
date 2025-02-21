@@ -1,0 +1,7 @@
+For Loop => 
+
+Range => work like for loop but we should to give hardcoded range in that loop. By default start from 0 to given number -1 
+
+While Loop => 
+
+Do While Loop => In python do while loop is not existed but we can 

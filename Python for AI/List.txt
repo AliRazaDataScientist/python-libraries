@@ -1,0 +1,21 @@
+List => List is ordered collection of data vales, we can store multiple value with different datatypes.
+
+Values are seprated by commas and enclosed by square brackets[]. Index in the list will be start with 0. 
+
+
+We can use List[start:end:jumpindex]
+
+List Comprehension => List comprehensions are used for creating new lists from other iterables like lists, tuples, dictionaries, sets and even in arrays and strings.
+See example in code
+
+List Methods => List methods is many more but here we will discuss some important and mostly used in py.
+
+append
+insert
+sort
+copy
+reverse
+concate +
+extend 
+count
+index

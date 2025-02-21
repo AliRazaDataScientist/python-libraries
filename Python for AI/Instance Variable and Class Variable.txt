@@ -1,0 +1,3 @@
+Class Variable = > Class variables are defined at the class level and are shared among all instance of the class. They are defined outside of any method and are usually used to store information that is common to all instance of the class.
+
+Instance Variable => Variable that defined at the instance level are unique to each instance of the class. They are defined inside teh init method and are usually used to store information.

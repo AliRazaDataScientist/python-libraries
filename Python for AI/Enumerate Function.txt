@@ -1,0 +1,1 @@
+Enumerate Function => Enumerate function is a built-in function in python that allow you to loop over a sequence and get the index and value of each element in the sequence at the same time.

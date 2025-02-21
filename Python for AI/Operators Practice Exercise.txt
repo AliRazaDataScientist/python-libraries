@@ -1,0 +1,8 @@
+Arithmetic Operators =>
++
+-
+*
+/
+** Exponential = power of
+% Modules = reminder
+// Floor Division = rounds the result down to the nearest whole number

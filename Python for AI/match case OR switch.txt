@@ -1,0 +1,3 @@
+Same like switch statement but we do not add breaks into it and also we will add multiple default cases with the help of if statement. 
+
+View in the example

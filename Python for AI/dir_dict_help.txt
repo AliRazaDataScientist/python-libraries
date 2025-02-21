@@ -1,0 +1,7 @@
+In python there are three built-in functions that are commonly used to get information about objects.
+
+dir()=> It returns a list of all the attributes and methods (including dunder methods) available for an object. It is a useful tool for discovering what you can do with an object.
+
+__dict__ => It returns a dictionary representation of an object's attributes. It is useful tool for introspection.
+
+help() => It is used to get the help documentation for an object, including a description of its attributes and methods.

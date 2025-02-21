@@ -1,0 +1,6 @@
+Recursion => The function that call to itself is called recursion function.
+
+return n * factorial(n-1)
+
+Fibonacci Sequence =>
+find the fibonacci of a number via program

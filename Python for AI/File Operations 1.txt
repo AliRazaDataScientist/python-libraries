@@ -1,0 +1,12 @@
+readline() => it is used to read line by line in a file. Simple get file and readlines.
+
+
+writeline() => it is used to write data into file. Simple get file and writelines.
+
+seek() = > it allows you to move the current position with in a file to a specific point.
+
+tell()=> its return the current position within the file, in bytes.it can be useful for keeping track of your location within the file
+
+truncate()=> it truncate the file to a specific size 
+
+

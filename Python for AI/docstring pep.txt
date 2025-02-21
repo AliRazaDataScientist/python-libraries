@@ -1,0 +1,9 @@
+PEP 8 => PEP stands for Python Enhancement Proposal and that provides guidelines and best practices on how to write Python code.
+
+
+Python docstrings => Python docstrings are strings used right after teh definition of a function, method, class or module 
+example
+print(test.__doc__)
+
+
+Python Comments => Comments are descriptions that help programmers better understand the program. The complete ignored by the python interpreter.

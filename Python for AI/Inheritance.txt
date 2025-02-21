@@ -1,0 +1,31 @@
+Inheritance => When a class derives from another class. The child class will inherit all the public and protected properties and methods from the parent class. In addition, it can have its own properties and methods, this is called as inheritance.
+
+Type of Inheritance:
+
+Single Inheritance
+Multiple Inheritance
+Multilevel Inheritance
+Hierarchical Inheritance
+Hybrid Inheritance
+
+Access Specifiers/Modifiers => In python programming are used to limit the access of class variables and class methods outside of class while implementing the concepts of inheritance.
+
+Type of access specifiers
+
+1 : Public access modifier => By default all the variables and mehtods are public. Any instance variable in a class followed by the 'self' keyword is. self.var_name are public accessed.
+
+2 : Private access modifier => In python there is no strict concept of 'private' access modifiers like in some other programming language. However, a convention has been established to indicate that a variable or methods should be considered private by prefixing with double underscore (__). This is knon as week internal user indicator
+
+But we can access that private variable using Object._ClassName__VariableName
+
+3 : Protected access modifier => The term protected is used to describe a member of a class that is intended to be accessed only by the class itself and its subclasses.the convention for indication that a member is proted is to prefix its name with a single underscore (_).
+
+Single Inheritance => It is a type of inheritance where a class inherits properties and behaviors from a single parent class.This is the simplest and most common form of inheritance.
+
+Multiple Inheritance => It is a powerful feature in object-oriented programming that allows a class to inherit attributes and methods from multiple parent classes. This can be useful in situation where a class needs to inherit funtionality from multiple source. In this we can use mro function which define the sequence of the function call.
+
+Multilevel Inheritance => It is a type of inheritance in object-oriented programming where a derived class inherits from another derived class. 
+
+Hierarchical Inheritance => It is a type of inheritance in object-oriented programming where multiple subclasses inherit form a single base class. In other words, a single base class acts as a parent class for multiple subclasses.  
+
+Hybrid Inheritance => It is a type of inheritance in object-oriented programming where a class can inherit attributes and methods from another class. Hybrid inheritance is a combination of more than one type of inheritance.

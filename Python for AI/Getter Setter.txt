@@ -1,0 +1,12 @@
+Getters => Getters in python are methods that are used to access the values of an object's properties.They are used to return the value of a specific property.
+
+@property 
+def ten_value(self):
+   return 10*self.value
+
+
+Setters => It is important to note that the getters do not take any parameters and we cannot set teh value through getter method. For that we need setter method which can be added by decorating method with @property_bane,setter
+
+@ten_value.setter
+def ten_value(self, new_value):
+   self.value = new_value

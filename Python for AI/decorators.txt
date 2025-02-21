@@ -1,0 +1,6 @@
+Decorator => A decorator is a function that takes another function as an argument and return a new function that modifies the behavior of the original function. The new function is oftern referred to as a 'decorated' function 
+
+syntax => @decorator_function name
+	  def my_function():
+		pass
+

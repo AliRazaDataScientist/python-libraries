@@ -1,0 +1,11 @@
+Exception Handling => It is the process of responding to unwanted events when a computer program runs.
+
+try/except => The code in try block runs when there is no error. If the try catch error while running the code the except block is executed.
+
+try:
+
+except:
+
+Finally => The finally code block is also a part of exception handling. When we handle exception using try and except block, we can include finally block at the end. The finally block is always executed.
+
+finally:

@@ -1,0 +1,6 @@
+Lamda Function => We can call it small anonymus function. It is defined using the lambda keyword and has the following syntax:
+
+lambda arguments: expression
+
+
+we can use lambda function as an arguments
