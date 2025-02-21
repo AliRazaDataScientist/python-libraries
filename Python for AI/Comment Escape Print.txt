@@ -1,0 +1,12 @@
+Comment => we can do comment multiple ways like #,"""""",'''''
+
+3 times starting of the text of 3 times ending of the text
+
+Escape Sequence => An escape sequence character is a backslah \ followed by the character you want to insert.
+
+we can use this before the quotes in the example.
+
+
+Print Statement => Print Statement looks something like this.
+
+print(object(s), sep=separator, end=end, file=file, flush=flush)

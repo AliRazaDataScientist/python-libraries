@@ -1,0 +1,7 @@
+Class => A class is a blueprint or a template for creating objects, providing inital values for state(member variables or attributes), and implementations of behaviour. We can declare it with keyword class
+
+
+Object => An instance of a class is called object.
+
+Self => It is a reference to the current instance of the class.
+

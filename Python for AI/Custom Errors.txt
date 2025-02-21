@@ -1,0 +1,6 @@
+Custom Error => We can raise custom errors by using the raise keyword.
+
+raise valueError('')
+
+
+Custom Exceptions => We can define custom exceptions by creating a new class that is derived from the built-in Exceptions class.

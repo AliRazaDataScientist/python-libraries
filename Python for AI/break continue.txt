@@ -1,0 +1,3 @@
+Break => It will break the condition from the loop 
+
+Continue => It will break the iteration in the loop

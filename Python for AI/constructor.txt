@@ -1,0 +1,16 @@
+Constructors => It is a special method in a class used to create and initialize an object of a class. There are different type of constructors. Constructor is invoked automatically when an object of a class in created.
+
+The main purpose of a constructor is to initialize or assign values to the data members of that class. It cann't return any value other than None.
+
+def __init__(self):
+    code
+
+There are two type of constructor in python
+
+1. Parameterized Constructor
+2. Default Constructor
+
+Default Constructor => When the constructor doesn't accept any arguments form the object and has only one argument self in the constructor it is known as a default constructor.
+
+
+Parameterized Constructor => See the example of the parameterized constructor in the code.
