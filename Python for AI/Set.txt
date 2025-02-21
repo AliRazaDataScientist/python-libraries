@@ -1,0 +1,19 @@
+Set => Sets are unordered collection of data items. Sets are unchangeable and not contains duplicate items.
+
+Set Methods
+union			///overall submit
+intersection	       ///only common
+update		      ///update set
+symmetric_difference ///except common
+difference	    ///like A-B delect common in A and then return
+difference_update  ///Only Difference update
+
+
+isdisjoint 	///if items of given set are present in another set then return false
+isuperset	///if all the items of a set are presents in the original set.
+issubset	///checks if all the items of the original set are present
+add
+remove/discard
+pop 		/// remove last item of the set
+del  		/// delete the complete set
+clear  		/// remove all the values form the set

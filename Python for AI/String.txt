@@ -1,0 +1,49 @@
+String => When we write anything in the single or double quotation it is called string.
+
+Escape Sequence
+We can use any special chracter in the string but for same quotation we should to use escape sequence.
+(\')
+
+Multiline
+We can write anything with the space using special chracters '''''' or """""" 
+
+Access characters of string
+In python string is like an array of characters. We can access parts of string by using its index.
+print(name[0])
+print(name[1])
+
+Lenght of String
+We can find string length of string with using len() function.
+x = len(name)
+
+Slice in String
+We can slice anything from array using pie
+print(name[1:5])
+print(name[-5:-1])
+
+String Methods
+upper
+lower
+replace
+rstrip = right strip = remove the given chracter
+split = create lists of the strings
+capitalize = do first word capital and other will do in small case
+center = it will do text center and added spaces according to given number
+count = count the word
+endswith = true/false if string ends with given text
+find = find the text and return the index but the difference is that when it not found then give us negtive index (-1)
+index = find the text and return the index but the difference is that when it not found then give us error
+isalnum = is alphanumeric?
+isalpha = is alpha?
+islower = is lower chracters?
+
+
+f-string() => it is used to string formatting and interpolation
+example:
+val = 'Geeks'
+print(f"{val}for{val} is a portal for {val}.")
+
+
+name = 'ali'
+age = 22
+print(f"Hello, My name is {name} and I'm {age} years old.")

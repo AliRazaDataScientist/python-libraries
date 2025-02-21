@@ -1,0 +1,3 @@
+Local variable => variable created inside the function and not work outside the code that is called local variable.
+
+Global variable => variable created outside the function and we can access it anywhere in the code is called global variable.

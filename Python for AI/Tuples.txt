@@ -1,0 +1,6 @@
+Tupes => Ordered collectiond data values. We can store multiple values in the tuples with different datatypes.
+
+Tuples values are separated with comma and enclosed with round brackets (). It act like constant List.
+Tuples are unchangeable.
+
+Same funcationality like list also methods.

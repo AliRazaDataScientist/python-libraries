@@ -1,0 +1,14 @@
+TypeCasting => Conversion of one data type to another data type is called typecasting.
+
+Python supports a wide variety of functions or methods like: int(), float(), str(), ord(), hex(), oct(), tuple(), set(), list(), dict(), etc.
+
+Two type of typecasting:
+Explicit Conversion
+Implicit Conversion
+
+1):Explicit Typecasting:The conversion of one data type into another datatype done via developer or programmer's as per the requirement is known as explicit typecasting.
+We can do this via built in functions.
+
+
+2):Implicit Typecasting:The conversion of one data type to another datatype by the python interpreter itself(automatically).
+Python convert a smaller datatype to a higher datatype to prevent data loss.

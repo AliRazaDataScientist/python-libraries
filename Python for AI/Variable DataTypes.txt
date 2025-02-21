@@ -1,0 +1,21 @@
+Variable => variable are containers for storing data value.
+We can direct use it without declare it.
+
+
+There are different type of variables:
+a = 1
+b = TRUE
+c = 'Python'
+d = None
+
+it can be in the form of of different type like (Number, Boolean, String, None, List, Tuple, Dict=Map)
+we will read in the next videos
+
+Also one more this Everything in the Python is object.Everything means Everthing
+
+type => It is used to find the type of variables.
+Simply write it as:
+type(a)
+
+
+Concatination => We can concate string with variables using (,).
